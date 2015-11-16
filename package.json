@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/MrBackKom/rong-parser-es6-babel/issues"
   },
-  "homepage": "https://github.com/MrBackKom/rong-parser-es6-babel#readme"
+  "homepage": "https://github.com/MrBackKom/rong-parser-es6-babel#readme",
+  "dependencies": {
+    "babel-core": "^6.1.21"
+  }
 }
