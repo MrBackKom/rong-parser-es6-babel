@@ -1,4 +1,4 @@
-var babel = require('barbel-core');
+var babel = require('babel-core');
 var transform = babel.transform;
 
 module.exports = function (content,file,conf){	

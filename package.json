@@ -1,6 +1,6 @@
 {
   "name": "rong-parser-es6-babel",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "parse ES6 to ES5",
   "main": "index.js",
   "scripts": {
