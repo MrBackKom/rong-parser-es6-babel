@@ -1,6 +1,6 @@
 {
   "name": "rong-parser-es6-babel",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "parse ES6 to ES5",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/MrBackKom/rong-parser-es6-babel#readme",
   "dependencies": {
-    "babel-core": "^6.1.21"
+    "babel-core": "^6.1.21",
+    "babel-preset-es2015": "^6.1.18"
   }
 }
